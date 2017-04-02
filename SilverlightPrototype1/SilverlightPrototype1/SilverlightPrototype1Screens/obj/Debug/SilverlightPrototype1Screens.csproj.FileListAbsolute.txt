@@ -1,0 +1,25 @@
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.dll
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\Bin\Debug\SilverlightPrototype1.Screens.pdb
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\ResolveAssemblyReference.cache
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_1.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_2.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 2.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 2_1.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 3.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 3_1.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 4.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 4_1.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 5.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 5_1.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 6.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 6_1.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 7.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 7_1.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 8.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.g.resources
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.dll
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\SilverlightPrototype1.Screens.pdb
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_3.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_4.g.cs
+D:\VGTU\UCHEBA\SilverlightPrototype1\SilverlightPrototype1\SilverlightPrototype1Screens\obj\Debug\Screen 1_5.g.cs
